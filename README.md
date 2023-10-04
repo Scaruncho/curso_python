@@ -15,7 +15,9 @@
 ·SergioCaruncho M4 - 02 - Python Notebook
   
   -Print
+  
   -Variables y tipos
+  
   -Listas (iterar, for)
   -Operadores
   -Condiciones
