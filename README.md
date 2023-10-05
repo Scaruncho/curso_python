@@ -162,9 +162,6 @@
 
   -Stamen Toner Maps
 
-  Jueves 5.10.23
-
-
   -Stamen Terrain Maps
 
   -Ejercicios
@@ -174,3 +171,79 @@
   -Mapas con indicadores (crimenes EEUU)
  
   -Mapas de Coropletas (mapa temático en el que las áreas están sombreadas o modeladas en proporción a la medida de la variable estadística que se muestra en el mapa, como la densidad de población o el ingreso per cápita)
+
+  Jueves 5.10.23
+
+·SergioCaruncho SpaceX - 1 - Data Collection Api v2
+
+  -Etapa 1: Obtencion de datos
+
+  -Importación de librerias.
+
+    ·Parte 1: Obtén los datos mediante peticiones GET y crea un dataframe
+
+    Pasar datos JSON a DataFrame
+
+    Reducir el DF a lo esencial 
+
+    Crear nuevo DF con los datos 
+
+    Completar las listas anteriores(launchpad, payload y core) 
+
+    Llama ahora la función getBoosterVersion. (No devuelve nada así que no hace falta asignarle una variable. Solo instanciamos la funcion.)
+
+    Muestra los primeros 5 valores de la lista BoosterVersion
+
+    Aplica el resto de funciones: (No devuelven nada así que no hace falta asignarles una variable. Solo instanciamos a las funciones.)
+
+    Finalmente creamos un dataframe desde las listas anteriores. Primero convirtámolos en un diccionario:
+
+    Y ahora crea un dataframe de Pandas desde el diccionario. Llámalo launch_data
+
+    Finalmente, muestra las primeras 5 filas del dataframe.
+
+    ·Parte 2: Filtra el dataframe para que solo incluya los lanzamientos de falcon 9
+
+    Eliminar lanzamientos del falcon 1 y quedarnos solo con los del 9
+
+    Ahora que hemos eliminado los lanzamientos de Falcon 1 la columna FlightNumber está desajustada. Vamos a volver a ordenarla:
+
+    ·Parte 3: Ajustes finales
+
+    Completar valores inexistentes
+
+    Transformar la lista Costumers en un string para que sea mas compatible con SQL 
+
+    Ahora exporta el dataset en formato .csv con index=False y llámalo dataset_part_1.csv. Descarga el archivo porque será necesario en      la siguiente práctica.
+
+  -Etapa 3: Análisis de datos utilizando SQL
+
+    Tarea 1: Subir los datos a la base de datos: primero cargamos el archivo de datos dataset_part_2.csv
+
+    Tarea 2: Queries con SQL
+
+  -Ejercicios
+
+    1 Muestra las diferentes plataformas de lanzamiento
+
+    2 Muestra 5 lanzamientos cuya plataforma empiece por 'CCS'
+
+    3 Mustra el la masa total transportada por los lanzamientos realizados donde el cliente es NASA (CRS)
+
+    4 Muestra la masa media tranportada por lanzamientos con serie que comienza por B1
+
+    5 Muestra la fecha donde se realizo el primer aterrizaje exitoso sobre terreno (TRUE RTLS)
+
+    6 Muestra las series de los cohetes que aterrizaron sobre portaviones (TRUE ASDS) con una masa entre 4000 y 6000
+
+    7 Muestra el numero de lanzamientos que completaron su mision correctamente y aquellos que fallaron
+
+    8 Muestra las series de los cohetes que transportaron la masa máxima
+
+    9 Muestra los el resultados del aterrizaje, la serie del cohete y las plataforma de lanzamiento de aquellos lanzamientos fallidos o no intentados en el año 2015
+
+    10 Muestra los resultados y la frecuencia de estos resultados entre 2010-06-04 y 2017-03-20 ordenados en orden descendiente según la frecuencia
+
+    
+  
+    
