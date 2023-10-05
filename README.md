@@ -120,4 +120,39 @@
     -7 Modificar un valor o entrada específico de un objeto DataFrame usando loc.
 
     -8 Acceder a un valor o entrada específico de un objeto DataFrame usando loc.
+
+    -9 Sumar los valores de la columna intentos con sum.
+
+    -10 Agregar una nueva fila a un objeto DataFrame por medio de loc.
+
+    -11 Eliminar una fila de un DataFrame con la función drop.
+
+    -12 Mostrar los n primeros y últimos registros de un objeto DataFrame con head y tail.
+
+    -13 Agregar una nueva columna a un DataFrame con notación de slicing.
+
+    Recorrer un Df: Para iterar cada una de las filas de un DataFrame utilizamos la función iterrows.
+
+    -14 Obtener como una lista Python los nombres de las columnas de un DataFrame.
+
+    -15 Renombrar las columnas de un objeto DataFrame a partir del diccionario dado.
+
+    -16 ·Guardar los registros de un DataFrame en un archivo de formato CSV.
+        ·Prueba a descargarlos en tu PC.
+
+  Miercoles 4.10.23
+
+·SergioCaruncho Prophet v2 - Predecir el valor de Bitcoin
+
+  -Cargar histórico de datos
+
+  -Crear la gráfica del precio de apertura
+
+  -Entrenar y predecir el modelo
+
+  -Gráfica con el modelo entrenado y los valores de un año en futuro predecidos.
+
+·SergioCaruncho M5 - 09 - Folium (mapas)
+
   
+ 
