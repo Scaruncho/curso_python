@@ -154,5 +154,23 @@
 
 ·SergioCaruncho M5 - 09 - Folium (mapas)
 
+  -Ejercicios 
+
+    Sabiendo que las coordinadas de Canadá son [56.130, -106.35] realiza un mapa centrado en Canadá. Elige un valor para el parámetro zoom_start que permita visualizar correctamente el país entero.
+
+    Utiliza la página geodatos para averiguar las coordenadas de España y así realizar un mapa centrado en España.
+
+  -Stamen Toner Maps
+
+  Jueves 5.10.23
+
+
+  -Stamen Terrain Maps
+
+  -Ejercicios
+
+    Crea dos mapas centrados en España siguiendo los diferentes estilos estudiados en los ejemplos anteriores.
   
+  -Mapas con indicadores (crimenes EEUU)
  
+  -Mapas de Coropletas (mapa temático en el que las áreas están sombreadas o modeladas en proporción a la medida de la variable estadística que se muestra en el mapa, como la densidad de población o el ingreso per cápita)
