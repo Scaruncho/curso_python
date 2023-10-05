@@ -116,4 +116,8 @@
     - 5 ..............
     
     - 6 Determinar los datos en un DataFrame que son nulos (NaN).
+
+    -7 Modificar un valor o entrada específico de un objeto DataFrame usando loc.
+
+    -8 Acceder a un valor o entrada específico de un objeto DataFrame usando loc.
   
