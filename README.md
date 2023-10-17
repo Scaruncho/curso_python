@@ -1,8 +1,8 @@
 # curso_python
 
-  Lunes 2.10.23
+#  Lunes 2.10.23
   
-·SergioCaruncho M4 - 01 - Python Notebook
+# ·SergioCaruncho M4 - 01 - Python Notebook
   
   -Introducción
   
@@ -18,9 +18,9 @@
   
   -Booleanos
   
-  -Ejercicios
+  # -Ejercicios
   
-·SergioCaruncho M4 - 02 - Python Notebook
+# ·SergioCaruncho M4 - 02 - Python Notebook
   
   -Print
   
@@ -54,9 +54,9 @@
   
   -Funciones map, filter y reduce
 
-  Martes 3.10.23
+ # Martes 3.10.23
   
-·SergioCaruncho M4 - 03 - Condicionales
+# ·SergioCaruncho M4 - 03 - Condicionales
   
   -Condicionales
   
@@ -64,12 +64,13 @@
     
   -¿Qué es cierto? (if,else)
   
-    -Ejercicios
+  #  -Ejercicios
+  
       -Superheroes
       -Años bisiestos
       -Palíndromos
     
-·SergioCaruncho M4 - 06 - Bucles
+# ·SergioCaruncho M4 - 06 - Bucles
 
   -Bucles
   
@@ -79,7 +80,7 @@
       
     -Iterar con for
     
-    -Ejercicios 
+  #  -Ejercicios 
     
       - 1 Contar las vocales que contiene una palabra
       
@@ -87,7 +88,7 @@
     
     -Bucles anidados
     
-    -Ejercicios
+  #  -Ejercicios
     
       - 1 bucle con for números entre -5 y 5
       
@@ -101,9 +102,9 @@
       
       - 6 Imprima los 100 primeros números de la secuencia de Fibonacci
 
-·SergioCaruncho M4 - 10 - Pandas
+# ·SergioCaruncho M4 - 10 - Pandas
 
-  -Ejercicios
+#  -Ejercicios
   
     - 1 Obtener las primeras 3 filas de un objeto DataFrame.
     
@@ -140,9 +141,9 @@
     -16 ·Guardar los registros de un DataFrame en un archivo de formato CSV.
         ·Prueba a descargarlos en tu PC.
 
-  Miercoles 4.10.23
+#  Miercoles 4.10.23
 
-·SergioCaruncho Prophet v2 - Predecir el valor de Bitcoin
+#  ·SergioCaruncho Prophet v2 - Predecir el valor de Bitcoin
 
   -Cargar histórico de datos
 
@@ -152,9 +153,9 @@
 
   -Gráfica con el modelo entrenado y los valores de un año en futuro predecidos.
 
-·SergioCaruncho M5 - 09 - Folium (mapas)
+#  ·SergioCaruncho M5 - 09 - Folium (mapas)
 
-  -Ejercicios 
+#  -Ejercicios 
 
     Sabiendo que las coordinadas de Canadá son [56.130, -106.35] realiza un mapa centrado en Canadá. Elige un valor para el parámetro zoom_start que permita visualizar correctamente el país entero.
 
@@ -164,7 +165,7 @@
 
   -Stamen Terrain Maps
 
-  -Ejercicios
+#  -Ejercicios
 
     Crea dos mapas centrados en España siguiendo los diferentes estilos estudiados en los ejemplos anteriores.
   
@@ -172,7 +173,7 @@
  
   -Mapas de Coropletas (mapa temático en el que las áreas están sombreadas o modeladas en proporción a la medida de la variable estadística que se muestra en el mapa, como la densidad de población o el ingreso per cápita)
 
-  Jueves 5.10.23
+#  Jueves 5.10.23
 
 ·SergioCaruncho SpaceX - 1 - Data Collection Api v2
 
@@ -222,7 +223,7 @@
 
     Tarea 2: Queries con SQL
 
-  -Ejercicios
+#  -Ejercicios
 
     1 Muestra las diferentes plataformas de lanzamiento
 
@@ -245,13 +246,13 @@
     10 Muestra los resultados y la frecuencia de estos resultados entre 2010-06-04 y 2017-03-20 ordenados en orden descendiente según la frecuencia
 
 
-  Viernes  6.10.23 
+#  Viernes  6.10.23 
 
     -Repaso teoría Python
 
     -Repaso ejercicios Python 
 
-  Lunes 16.10.23
+#  Lunes 16.10.23
 
     -Clases y funciones 
 
