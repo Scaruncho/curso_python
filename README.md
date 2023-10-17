@@ -244,6 +244,24 @@
 
     10 Muestra los resultados y la frecuencia de estos resultados entre 2010-06-04 y 2017-03-20 ordenados en orden descendiente según la frecuencia
 
+
+  Viernes  6.10.23 
+
+    -Repaso teoría Python
+
+    -Repaso ejercicios Python 
+
+  Lunes 16.10.23
+
+    -Clases y funciones 
+
+    -Ejercicios
+
+    1 Clases
+
+    2 Funciones 
+    
+
     
   
     
