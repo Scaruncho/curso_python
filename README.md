@@ -254,14 +254,21 @@
 
 #  Lunes 16.10.23
 
-    -Clases y funciones 
+·SergioCaruncho M6 - 01 - Funciones.ipynb
+    
+    -Funciones 
 
-    -Ejercicios
+·SergioCaruncho M6 - 02 - Clases.ipynb
+
+    -Clases
+
+#   -Ejercicios
 
     1 Clases
 
     2 Funciones 
-    
+
+#  Martes 17.10.23    
 
     
   
