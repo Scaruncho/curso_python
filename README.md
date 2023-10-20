@@ -270,6 +270,21 @@
 
 #  Martes 17.10.23    
 
+    -Programación funcional
+
+#  Miércoles 18.10.23    
+    
+    -RDD's
+
+    -SparkSpy
+
+    -Transformaciones y acciones sobre RDD's
+    
+#  Jueves 19.10.23    
+
+#    -Ejercicios
+
+      1 Transformaciones y acciones sobre RDD's
     
   
     
